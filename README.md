@@ -22,7 +22,9 @@ All said, I like building and designing well engineered software systems, eating
 ### 📘 How I'd Define Me... Literally
 
  ```python
- class Abdulla:
+ from person import Person 
+
+ class Abdulla (Person):
     def __init__(self):
         self.name = "abdulla"
         self.age = 20
