@@ -21,39 +21,28 @@ All said, I like building and designing well engineered software systems, eating
 
 ### 📘 How I'd Define Me... Literally
 
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'abdulla'
-     @age = 20
-     @work = [ 'machine learning Dev', 'MangoTree Dev' ]
-     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
-   end
+ ```python
+ class Abdulla:
+    def __init__(self):
+        self.name = "abdulla"
+        self.age = 20
+        self.work = ["Machine Learning Dev", "Flet", "Dev"]
 
-   def languages
-     {
-       human: [ 'English', 'Arabic' ],
-       programming: ['Python','Java','html', 'csa','SQL', 'C++' ]
-      }
-   end
+    def languages(self):
+        return {
+            "human": ["English", "Arabic"],
+            "programming": ["Python", "Java", "HTML", "CSA", "SQL", "C++"]
+        }
 
-   def current_location
-     'JORDAN, Tafila'
-   end
+    def current_location(self):
+        return "Jordan, Tafila"
 
-   def next_locations
-     [ 'Chamonix, FR' ]
-   end
+    def currently(self):
+        return {
+            "studying": ["Natural Language Processing", "Deep Learning", "Computer Vision"]
+        }
 
-   def currently
-     {
-       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
-       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
-       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
-      }
-   end
- end
+
  ```
 
 <hr>
