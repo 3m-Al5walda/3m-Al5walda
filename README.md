@@ -4,7 +4,7 @@
   
   [![Linkedin Badge]()
   [![Medium Badge]()
-  [![Gmail Badge](https://accounts.google.com/mabdull606@gmail.com)
+  [![Gmail Badge](https://mail/mabdull606@gmail.com)
 
   [![Behance Badge]()
 </div>
