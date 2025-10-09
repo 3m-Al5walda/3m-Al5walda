@@ -6,7 +6,6 @@
   [![Medium Badge]()
   [![Gmail Badge](https://mail/mabdull606@gmail.com)
 
-  [![Behance Badge]()
 </div>
 
 <hr>
