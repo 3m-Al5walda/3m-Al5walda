@@ -7,9 +7,7 @@
   [![Gmail Badge](https://mail/mabdull606@gmail.com)
 
 </div>
-
 <hr>
-
 <p>
 My name is Abdulla alkhwalda , and I love to build stuff, usually with code. ect...
 </p>
