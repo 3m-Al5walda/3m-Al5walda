@@ -14,9 +14,7 @@ My name is Abdulla alkhwalda , and I love to build stuff, usually with code. ect
 <p> 
 All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-rritos, gyros, etc), <a href="https://www">taking photos</a>, and trying to <a href="images/falling_with_style.GIF">jump out</a> of the nearest plane.
 </p>
-
 <hr>
-
 ### 📘 How I'd Define Me... Literally
 
  ```python
