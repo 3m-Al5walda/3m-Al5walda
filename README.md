@@ -5,7 +5,6 @@
   [![Linkedin Badge](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%AD%D9%85%D8%AF-15546a323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   [![Medium Badge]()
   [![Gmail Badge](https://mail/mabdull606@gmail.com)
-
 </div>
 <hr>
 <p>
