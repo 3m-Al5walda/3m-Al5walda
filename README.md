@@ -58,7 +58,7 @@ All said, I like building and designing well engineered software systems, eating
 
 
 <!--
-**3m-Al5walda/3m-Al5walda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3m-Al5walda/3m-Al5walda** is a ✨ _special_ ✨ repository because its `README.md`
 
 Here are some ideas to get you started:
 
