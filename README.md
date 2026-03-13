@@ -1,8 +1,6 @@
 ## Hi there 🦧☕
 
 <div align="right">
-  
- 
 </div>
 <hr>
 <p>
