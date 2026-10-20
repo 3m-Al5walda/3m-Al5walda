@@ -35,19 +35,19 @@ All said, I like building and designing well engineered software systems, eating
     def __init__(self):
         self.name = "abdulla"
         self.age = 21
-        self.work = ["Machine Learning Dev", "Flet", "Dev"]
+        self.work = ["Machine Learning Dev", "RAG Dev", "Data analyst"]
 
     def languages(self):
         return {
             "human": ["English", "Arabic"],
-            "programming": ["Python", "Java", "HTML", "CSA", "SQL", "C++"]
+            "programming": ["Python", "Java", "HTML", "CSS", "SQL", "C++"]
         }
     def current_location(self):
         return "Jordan, Tafila"
 
     def currently(self):
         return {
-            "studying": ["Natural Language Processing", "Deep Learning", "Computer Vision"]
+            "studying": ["Natural Language Processing", "Deep Learning","Rag","Big data"]
         }
 
 
